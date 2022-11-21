@@ -111,7 +111,7 @@ Lets take a look at what's inside `POSIXFunctionsUnitTest.php`:
 
 ```php
 ...
-namespace WordPressCS\WordPress\Tests\PHP;
+namespace WordPressCS\WordPressOrg\Tests\PHP;
 
 use PHP_CodeSniffer\Tests\Standards\AbstractSniffUnitTest;
 
