@@ -533,8 +533,8 @@
 	<!-- Check for correct usage of the WP i18n functions. -->
 	<rule ref="WordPressOrg.WP.I18n"/>
 
-	<!-- Check for correct spelling of WordPressOrg. -->
-	<rule ref="WordPressOrg.WP.CapitalPDangit"/>
+	<!-- Check for correct spelling of WordPressOrg.
+	<rule ref="WordPressOrg.WP.CapitalPDangit"/> -->
 
 	<!-- Use the appropriate DateTime functions.
 		 See: https://github.com/WordPress/WordPress-Coding-Standards/issues/1713 -->
