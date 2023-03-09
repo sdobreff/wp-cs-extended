@@ -36,7 +36,7 @@ When you introduce new `public` sniff properties, or your sniff extends a class 
 
 ## Pre-requisites
 * WordPress-Coding-Standards
-* PHP_CodeSniffer 3.3.1 or higher
+* PHP_CodeSniffer 3.7.1 or higher
 * PHPUnit 4.x, 5.x, 6.x or 7.x
 
 The WordPress Coding Standards use the `PHP_CodeSniffer` native unit test suite for unit testing the sniffs.
@@ -111,7 +111,7 @@ Lets take a look at what's inside `POSIXFunctionsUnitTest.php`:
 
 ```php
 ...
-namespace WordPressCS\WordPressOrg\Tests\PHP;
+namespace WordPressCS\WordPress\Tests\PHP;
 
 use PHP_CodeSniffer\Tests\Standards\AbstractSniffUnitTest;
 
